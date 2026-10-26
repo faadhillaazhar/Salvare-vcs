@@ -14,14 +14,9 @@ Salvare is an experimental Version Control System (VCS) built entirely using nat
 
 ## Installation
 
-You can easily install Salvare locally using the provided installation script. It automatically checks for Node.js and sets up the `sav` command globally.
-
-1. Clone or download this repository.
-2. Run the installation script:
-   ```bash
-   chmod +x install.sh
-   ./install.sh
-   ```
+```
+ npm install salvare
+```
 
 ## Usage
 once installed, you can use the sav command from anywhere :
